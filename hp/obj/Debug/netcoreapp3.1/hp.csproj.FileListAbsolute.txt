@@ -1,0 +1,15 @@
+C:\Users\umutg\source\repos\hp\hp\obj\Debug\netcoreapp3.1\hp.csprojAssemblyReference.cache
+C:\Users\umutg\source\repos\hp\hp\obj\Debug\netcoreapp3.1\hp.Form1.resources
+C:\Users\umutg\source\repos\hp\hp\obj\Debug\netcoreapp3.1\hp.csproj.GenerateResource.cache
+C:\Users\umutg\source\repos\hp\hp\obj\Debug\netcoreapp3.1\hp.AssemblyInfoInputs.cache
+C:\Users\umutg\source\repos\hp\hp\obj\Debug\netcoreapp3.1\hp.AssemblyInfo.cs
+C:\Users\umutg\source\repos\hp\hp\obj\Debug\netcoreapp3.1\hp.csproj.CoreCompileInputs.cache
+C:\Users\umutg\source\repos\hp\hp\bin\Debug\netcoreapp3.1\hp.exe
+C:\Users\umutg\source\repos\hp\hp\bin\Debug\netcoreapp3.1\hp.deps.json
+C:\Users\umutg\source\repos\hp\hp\bin\Debug\netcoreapp3.1\hp.runtimeconfig.json
+C:\Users\umutg\source\repos\hp\hp\bin\Debug\netcoreapp3.1\hp.runtimeconfig.dev.json
+C:\Users\umutg\source\repos\hp\hp\bin\Debug\netcoreapp3.1\hp.dll
+C:\Users\umutg\source\repos\hp\hp\bin\Debug\netcoreapp3.1\hp.pdb
+C:\Users\umutg\source\repos\hp\hp\obj\Debug\netcoreapp3.1\hp.dll
+C:\Users\umutg\source\repos\hp\hp\obj\Debug\netcoreapp3.1\hp.pdb
+C:\Users\umutg\source\repos\hp\hp\obj\Debug\netcoreapp3.1\hp.genruntimeconfig.cache
